@@ -1,10 +1,10 @@
 # HTML Contact Form Automation with Selenium WebDriver, Java, JUnit 5, GitHub Actions & Docker Hub
 
-![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=github-actions)
+[![CI/CD Pipeline](https://github.com/vvce24cseaiml0170-design/selenium-contact-form-automation/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/vvce24cseaiml0170-design/selenium-contact-form-automation/actions/workflows/ci-cd.yml)
 ![Java Version](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
 ![Selenium](https://img.shields.io/badge/Selenium-4.25.0-green?logo=selenium)
 ![JUnit](https://img.shields.io/badge/JUnit-5.10.2-red?logo=junit5)
-![Docker](https://img.shields.io/badge/Docker-Nginx%20Alpine-2496ED?logo=docker)
+[![Docker Pulls](https://img.shields.io/badge/Docker%20Hub-shreyas050906%2Fselenium--contact--form--automation-blue?logo=docker)](https://hub.docker.com/r/shreyas050906/selenium-contact-form-automation)
 
 ---
 
